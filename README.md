@@ -36,8 +36,4 @@ Welcome to VicTacToe, an interactive Tic-Tac-Toe game implemented in Python. Cha
 
 Contributions are welcome! If you find a bug or have an enhancement in mind, open an issue or fork the repository and submit a pull request.
 
-## Acknowledgments
-
-Shoutout to the developers and contributors who made this project possible!
-
-Enjoy playing VicTacToe and have fun challenging your friends! If you have questions, feel free to reach out.
+Enjoy playing 🎮 VicTacToe and have fun challenging your friends! If you have questions, feel free to reach out.
